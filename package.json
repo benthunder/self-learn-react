@@ -1,0 +1,19 @@
+{
+  "name": "self-learn-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benthunder/self-learn-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benthunder/self-learn-react/issues"
+  },
+  "homepage": "https://github.com/benthunder/self-learn-react#readme"
+}
